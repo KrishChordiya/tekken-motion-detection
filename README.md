@@ -3,8 +3,6 @@
 Control your Tekken fighter using real-time upper body gestures captured through your webcam!  
 This project detects punches and body tilts using pose estimation powered by **YOLOv8 Pose**, triggering keypresses to control the game.
 
----
-
 ## 📦 Features
 
 - 🥊 **Punch Detection**: Left and right punches using elbow-wrist-shoulder angles.
@@ -12,14 +10,11 @@ This project detects punches and body tilts using pose estimation powered by **Y
 - 🔁 **Real-time Detection** using `YOLOv8` and `OpenCV`.
 - ⌨️ **Virtual Keypresses** sent using the `keyboard` module.
 
----
 
 ## 📽️ Demo
 
 > Coming soon!  
 > A short clip will be added here showing punches and movements mapped to keyboard keys.
-
----
 
 ## 🚀 Getting Started
 
